@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/monitor-icon-ready.png</file>
+        <file>icons/monitor-icon-shutdown.png</file>
+        <file>icons/monitor-icon-working.png</file>
+    </qresource>
+</RCC>
