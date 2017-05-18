@@ -8,5 +8,4 @@ In daily income table, first row which is day = 0 , total income for all days wh
 
 Good day...
 
-Abdullah Oluk
-Yildiz Technical University / Computer Engineering / Istanbul / Turkey
+Abdullah Oluk /Yildiz Technical University / Computer Engineering / Istanbul / Turkey
