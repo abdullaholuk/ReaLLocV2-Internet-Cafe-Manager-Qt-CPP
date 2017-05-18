@@ -1,4 +1,4 @@
-# ReaLLocV2-Internet-Cafe-Manager-Qt-CPP
+# ReaLLocV2-Internet-Cafe-Manager-Qt-C++
 This is a internet cafe management system interface coded with Qt C++
 
 Subscriber and normal users can login computer with time or without time.
